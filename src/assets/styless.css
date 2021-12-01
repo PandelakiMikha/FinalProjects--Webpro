@@ -1,0 +1,19 @@
+.bg-all {
+    background-color: rgb(235, 235, 235);
+}
+
+.bg-dongker {
+    background-color: #94ffb9;
+}
+
+.text-grey {
+    color: rgb(235, 235, 235);
+}
+
+.text-dongker {
+    color: #191f62;
+}
+
+.border-dongker {
+    color: #191f62 !important;
+}
